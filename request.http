@@ -1,0 +1,5 @@
+
+GET http://localhost:3000/autofarm/cache/update
+
+###
+GET http://localhost:3000/autofarm/0x1249A63B7d764cC8e51D7e6e3817794ABe23176D
